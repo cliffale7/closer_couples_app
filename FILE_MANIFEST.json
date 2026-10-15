@@ -1,0 +1,181 @@
+{
+  "package": "The Closer Project Android Cursor Production Kit",
+  "file_count_excluding_manifest": 35,
+  "files": [
+    {
+      "path": ".cursor/agents/accessibility-usability-auditor.md",
+      "bytes": 1334,
+      "sha256": "d591214ffb7980d91a4b77489515ba385aa1064996217ae53caca6018793b04b"
+    },
+    {
+      "path": ".cursor/agents/android-release-engineer.md",
+      "bytes": 1377,
+      "sha256": "b20cf6b1a968fccc7a7b49a9bc53b21b6ebd626eca9e5f528badab7f631c188b"
+    },
+    {
+      "path": ".cursor/agents/app-art-director.md",
+      "bytes": 1344,
+      "sha256": "fdb564ae2ff17628d06cb583d4dbc503b4400907aa4a76d936cfb3ed449a432e"
+    },
+    {
+      "path": ".cursor/agents/book-update-automation.md",
+      "bytes": 1433,
+      "sha256": "0b60fd28534719c1a2ef860ff5edf8632ec0460b93b57c45d0cd80a59e5f57cc"
+    },
+    {
+      "path": ".cursor/agents/content-schema-migration.md",
+      "bytes": 1349,
+      "sha256": "b55639ef5a7e59699d09f9d0b5d6a586d0c022dc3dd5010bb52e7d71ee514edc"
+    },
+    {
+      "path": ".cursor/agents/editorial-content-adapter.md",
+      "bytes": 1448,
+      "sha256": "9938e1344b67d14b72b2f686ff93b569fa9ab14504225afb8f57de02071faa1b"
+    },
+    {
+      "path": ".cursor/agents/flutter-android-architect.md",
+      "bytes": 1403,
+      "sha256": "83fe3b7c38dc7219a66868769fbff5e77e85e5b9a8e0b352de9aaed89e3a4dc3"
+    },
+    {
+      "path": ".cursor/agents/flutter-ui-engineer.md",
+      "bytes": 1349,
+      "sha256": "c8570fa8e57787141548afafef8c83c3f0bc5016a0fbc4a3280fc045293bd0e5"
+    },
+    {
+      "path": ".cursor/agents/illustrator-motion-maker.md",
+      "bytes": 1389,
+      "sha256": "6c3b680cfeba28ac359aa2e124c62ea7d75a15e8a69e921a9b0b6e486ba404e3"
+    },
+    {
+      "path": ".cursor/agents/independent-test-engineer.md",
+      "bytes": 1392,
+      "sha256": "27b408dc3b8e5d3dda8cf41a672232067bac826e102fd9bb9b79ba18a4544c4e"
+    },
+    {
+      "path": ".cursor/agents/interactive-experience-designer.md",
+      "bytes": 1422,
+      "sha256": "549d719bd4e32c470025a8c426e887db1b48ee1127195fe016138383408e1618"
+    },
+    {
+      "path": ".cursor/agents/memoir-journal-designer.md",
+      "bytes": 1427,
+      "sha256": "5adacc6cb1bf2a597ac75bb53b37a9e21038133372c0e7999b85137f998945ac"
+    },
+    {
+      "path": ".cursor/agents/privacy-security-engineer.md",
+      "bytes": 1414,
+      "sha256": "62db9b74069b720d2dd7fb206d8d97dcd311aaba50511b5e4091e3f1669e9375"
+    },
+    {
+      "path": ".cursor/agents/product-ux-architect.md",
+      "bytes": 1333,
+      "sha256": "0d2c645e4c63293e9f85eaf04c9442ad765daeab44b9498f406a25ae493187d4"
+    },
+    {
+      "path": ".cursor/agents/proofreader-content-auditor.md",
+      "bytes": 1284,
+      "sha256": "1f4989f0b13d443435c19196f75a347a63564e37e4a414b50a44431ca4a3dc3f"
+    },
+    {
+      "path": ".cursor/agents/research-provenance-verifier.md",
+      "bytes": 1482,
+      "sha256": "aff4922e19b7f6c257cb22090d4f09c3edacdf3410da03160e518642b554be3f"
+    },
+    {
+      "path": ".cursor/agents/romance-sensuality-specialist.md",
+      "bytes": 1437,
+      "sha256": "c5a6bcf5a6050540c23b7f4efc9392508d20c2bc8f18140c5133c4117e9e4f75"
+    },
+    {
+      "path": ".cursor/agents/source-book-librarian.md",
+      "bytes": 1434,
+      "sha256": "a70cada57f705eb9bf4b7a8b13135eedb943095999d28eb26a0fbb4859e73bbe"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 465,
+      "sha256": "eec2e5e0778b412abdfb60019d66a7124a25715ccaa6a72ce3035bfca61fc3c2"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 2360,
+      "sha256": "1fc766bd46b57c05329eeba3da84878623b4eb0e8dfe819e20ffcc9514dde8d1"
+    },
+    {
+      "path": "CURSOR_ANDROID_MASTER_WORK_ORDER.md",
+      "bytes": 70928,
+      "sha256": "0f6bf51e2666d59f7f41a1f8ceea385032ce8e55ff45faa7d96dc1810c16f4f0"
+    },
+    {
+      "path": "CURSOR_ANDROID_QUICK_START_PROMPT.txt",
+      "bytes": 1978,
+      "sha256": "61c6ef5b484a404e8fb3322e33f2de014bcb0cf53d40497f10ca3e8b0c93b75f"
+    },
+    {
+      "path": "CURSOR_IMPORT_UPDATED_BOOK_PROMPT.txt",
+      "bytes": 1242,
+      "sha256": "035f630884c59faf2a8e267197aa7049fb0408098d0ae938ebe856676f72222f"
+    },
+    {
+      "path": "OPTIONAL_BOOK_PROJECT_EXPORT_BRIDGE_PROMPT.txt",
+      "bytes": 1018,
+      "sha256": "1e08df846c9f993514e5f858ac3498fb720fe56f04cfb0760b0cec932f28cae3"
+    },
+    {
+      "path": "README_START_HERE.md",
+      "bytes": 3021,
+      "sha256": "9657e98a1da222c96428b9f0c652ba8c521f671c8f6a42560470a6a53dfec065"
+    },
+    {
+      "path": "book_inbox/README_DROP_BOOK_HERE.md",
+      "bytes": 657,
+      "sha256": "85f2bd7a0018d22e4a8ebd6309a1b0171e9d9ed4559ef4fb0d7982e1fe11dd99"
+    },
+    {
+      "path": "docs/BOOK_UPDATE_PLAYBOOK.md",
+      "bytes": 4367,
+      "sha256": "9271b13d70873d6b0d4aa4e6542e654694fb647bfbde065dbe5bdd3017fa37f7"
+    },
+    {
+      "path": "docs/QA_ACCEPTANCE_MATRIX.md",
+      "bytes": 3718,
+      "sha256": "ba73edbc2047b9f67a7c347f283204329f762e5ab390ab3f45cd4a9ec6eeb66c"
+    },
+    {
+      "path": "planning/PRODUCTION_BOARD.md",
+      "bytes": 887,
+      "sha256": "f986fc1cb7ceb6e0a74251761efc6d5226e8c452ae4364d1769df36714007c56"
+    },
+    {
+      "path": "planning/STATUS.json",
+      "bytes": 446,
+      "sha256": "3283de4da94e964cd5e83e204fe0f6820559efbe6c57d1bc023038fa95df03fc"
+    },
+    {
+      "path": "source/book_baseline/BOOK_MASTER_WORK_ORDER_REFERENCE.md",
+      "bytes": 52186,
+      "sha256": "f1834ad7804cfb4212cfa0c1debf8793ccea33e6aa440603bcee46480d89a1bf"
+    },
+    {
+      "path": "source/book_baseline/ORIGINAL_IDEAS_EXPANDED.md",
+      "bytes": 6616,
+      "sha256": "ab9a4a80302cfa97ab2067e4455107dd4c0296ac20835338e5392654c9aa877d"
+    },
+    {
+      "path": "source/book_baseline/The_Closer_Project_Concept_and_Feedback_Invitation.docx",
+      "bytes": 40437,
+      "sha256": "8bebf324b4a945a7440a00b5fd4ca714dece7e555a4e3f6c5894381c3758724a"
+    },
+    {
+      "path": "source/book_baseline/The_Closer_Project_Working_Manuscript_v0.1.docx",
+      "bytes": 50942,
+      "sha256": "48f6d32c94e3b0bac1e6e3df3007203ffae30104dcc03015aa8f2b15de6b821e"
+    },
+    {
+      "path": "source/book_baseline/experience_catalog.json",
+      "bytes": 47609,
+      "sha256": "5b94b93c4a4c128bc90a2921b9fc51004968d85223c963521fef8bee399bb400"
+    }
+  ]
+}

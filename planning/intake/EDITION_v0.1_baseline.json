@@ -1,0 +1,26 @@
+{
+  "edition_id": "baseline-v0.1",
+  "checksum": "d7c51c81463b3f784136a32f64245cbacfecc6238f4ccc785317fb3300f77801",
+  "publication_gate": "BLOCKED_PENDING_APPROVED_BOOK",
+  "blockers": [
+    "approval_state is 'baseline_inventory_only', not owner_approved",
+    "completeness is 'inventory_not_full_chapters', not full_chapters",
+    "108 experiences have no finished full_chapter prose",
+    "missing signature sessions S01, S02, S03, S04, S05, S06",
+    "one or more part introductions are empty"
+  ],
+  "manuscript": {
+    "format": "docx",
+    "confidence": "high",
+    "paragraph_count": 587,
+    "word_count": 8378,
+    "sha256": "48f6d32c94e3b0bac1e6e3df3007203ffae30104dcc03015aa8f2b15de6b821e",
+    "titles_found": 108,
+    "titles_expected": 108,
+    "missing_title_ids": [],
+    "declares_not_finished_prose": true,
+    "finished_book": false,
+    "reason": "The manuscript's own editorial status says this is an inventory, not finished prose."
+  },
+  "catalog_errors": []
+}

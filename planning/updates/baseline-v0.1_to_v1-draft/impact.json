@@ -1,0 +1,29 @@
+{
+  "diff_counts": {
+    "edition_id": "v1-draft",
+    "approval_state": "draft",
+    "completeness": "copyedited_draft",
+    "publication_gate": "BLOCKED_PENDING_APPROVED_BOOK",
+    "experiences": 108,
+    "signatures": 6,
+    "front_matter": 6,
+    "assets": 129,
+    "text_changed": 108,
+    "metadata_changed": 108,
+    "artwork_changed": 108,
+    "apply": true,
+    "note": "Draft import. The publication gate stays blocked until a manifest says owner_approved."
+  },
+  "impact": {
+    "classes": [
+      "text",
+      "metadata",
+      "artwork"
+    ],
+    "requires_new_apk": false,
+    "content_pack_sufficient": true,
+    "journal_action": "preserve_all_rows",
+    "destructive_to_journals": false,
+    "owner_decision_required": false
+  }
+}

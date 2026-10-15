@@ -1,0 +1,11 @@
+Build The Closer Project ANDROID APP, governed by @CURSOR_ANDROID_MASTER_WORK_ORDER.md and @AGENTS.md.
+
+Read the whole master order, @README_START_HERE.md, the original book baseline under source/book_baseline/, and all 18 project-local subagents. Create and use the defined specialist team for book ingestion, research verification, adaptation of writing, digital games, mature intimacy content, Flutter architecture, actual UI development, privacy/security, journals, artwork, accessibility, book-update automation, testing and Android release.
+
+The final goal is a COMPLETE beautifully illustrated, genuinely interactive, OFFLINE Android implementation of the FINISHED book: every full chapter for experiences 001–108, all 13 themes, all completed S01–S06 signatures, all game resources and images, every quick-reference mode, and a two-person private/shared Our Story journal with unlimited revisits, media/keepsakes, encrypted backups and export.
+
+ABSOLUTELY CRITICAL: the included v0.1 book manuscript is only an outline/baseline. The full app release depends on the first approved, completed book edition. Check book_inbox/ now. If not yet supplied, implement the source-versioned import/diff/update engine, secure data architecture, thoughtful UI framework and tests without pretending unfinished book copy is finished. If a completed edition is present, validate it and systematically implement all its material.
+
+From day one, implement the FUTURE BOOK UPDATE workflow: one revised approved book/package dropped into book_inbox/ and one Cursor instruction should cause a structured diff, impacted agent work, safe migration, new validated content pack and/or tested Android APK. Private journal data must never be erased by editorial changes.
+
+Actually execute and build toward real tested APK deliverables, keep a durable production board, checkpoint code, audit with independent QA, and never substitute a mockup or 108 short summary cards for the complete app.

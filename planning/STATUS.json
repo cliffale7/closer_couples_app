@@ -1,0 +1,38 @@
+{
+  "project": "The Closer Project — Android",
+  "status": "first_complete_draft_installed_gate_blocked",
+  "app_version": "0.1.0+2",
+  "book_source": "v1-draft",
+  "book_project_path": "C:\\Users\\cliff\\.cursor\\The_Closer_Project",
+  "content_schema_version": "1.0.0",
+  "journal_schema_version": "1",
+  "baseline_original_experiences": 108,
+  "baseline_parts": 13,
+  "required_signature_sessions": 6,
+  "signatures_present": 6,
+  "first_approved_complete_book": null,
+  "full_publication_gate": "BLOCKED_PENDING_APPROVED_BOOK",
+  "active_pack_checksum": "244f38b274574b10879b88f500c5945fc1d0f855d34b5ee279c610fe11b063fc",
+  "manuscript_note": "Active content is the copyedited v1 draft: 108 full chapters, 6 signatures, 6 front-matter pieces, 13 part introductions, and 129 SVG artworks. approval_state is draft. The v0.1 inventory pack remains at content/canonical/baseline-v0.1.",
+  "phases": {
+    "0_intake": "baseline catalog audited; v1 draft imported from the book project",
+    "1_contracts": "content/journal split remains; draft approval cannot be overridden by --approved",
+    "2_importer": "markdown book-project loader tested; private journal directory is not read",
+    "3_journeys": "each full chapter opens a guided visit from its own sections and Our Story pages; notes save to the journal",
+    "4_through_9": "owner approval, encrypted backup, a watched device pass, and a signed release are still ahead"
+  },
+  "evidence": {
+    "python_unittest": "27 passed (tools/book_ingest/tests) on 2026-10-14; not re-run for the session and export work",
+    "flutter_analyze": "No issues found",
+    "flutter_test": "14 passed on 2026-10-14, including chapter session prompts and unencrypted journal restore",
+    "device_install": "debug APK installed on SM G975U (R58M73YRFKF, Android 12) and the activity was started. A chapter was not walked on the device from this session.",
+    "apk": "Debug APK rebuilt at build/app/outputs/flutter-apk/app-debug.apk (170748163 bytes). Not a signed release."
+  },
+  "blockers": [
+    "The book project edition is v1-draft. Nothing is marked owner_approved, so the publication gate stays blocked.",
+    "Export is a plain JSON file. It is not encrypted, and the settings screen says so.",
+    "The phone install was not followed by a watched pass through chapter 001."
+  ],
+  "next_checkpoint": "On the phone, begin chapter 001, save a private page and a shared page, then export and restore the notes. Keep the gate blocked until the owner says this draft is approved. Windows widget tests must use databaseFactoryFfiNoIsolate. Do not commit unless asked.",
+  "background_processing": false
+}

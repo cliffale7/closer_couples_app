@@ -1,0 +1,19 @@
+{
+  "edition_id": "v1-draft",
+  "content_schema_version": "1.0.0",
+  "pack_relative_path": "content/canonical/v1-draft/content_pack.json",
+  "checksum": "244f38b274574b10879b88f500c5945fc1d0f855d34b5ee279c610fe11b063fc",
+  "previous": {
+    "edition_id": "baseline-v0.1",
+    "content_schema_version": "1.0.0",
+    "pack_relative_path": "content/canonical/baseline-v0.1/content_pack.json",
+    "checksum": "d7c51c81463b3f784136a32f64245cbacfecc6238f4ccc785317fb3300f77801",
+    "previous": null,
+    "publication_gate": "BLOCKED_PENDING_APPROVED_BOOK",
+    "journal_schema_version": "1",
+    "idempotent": false
+  },
+  "publication_gate": "BLOCKED_PENDING_APPROVED_BOOK",
+  "journal_schema_version": "1",
+  "idempotent": false
+}

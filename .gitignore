@@ -1,0 +1,34 @@
+# Never track personal couple journals or exported private materials
+journal/private/
+journals/private/
+backups/private/
+private_exports/
+private_memories/
+**/*.keystore
+**/*.jks
+**/*signing*.properties
+**/.env
+**/.env.*
+# Incoming book intake is deliberately untracked until vetted/approved
+book_inbox/**
+!book_inbox/README_DROP_BOOK_HERE.md
+# Transient build/import artifacts
+.dart_tool/
+.flutter-plugins*
+build/
+.gradle/
+*.log
+*.tmp
+*.bak
+__pycache__/
+.DS_Store
+content/staged/
+**/*.json.staged
+.idea/
+*.iml
+android/local.properties
+android/.gradle/
+coverage/
+/android/app/debug
+/android/app/profile
+/android/app/release

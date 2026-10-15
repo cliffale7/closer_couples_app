@@ -1,0 +1,3 @@
+# Optional libraries are not required. DOCX, EPUB, Markdown, and JSON use the
+# Python standard library. If pypdf is installed, PDF text extraction uses it.
+# Otherwise the importer falls back to a low-confidence literal-string scan.

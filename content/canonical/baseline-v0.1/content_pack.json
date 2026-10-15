@@ -1,0 +1,5422 @@
+{
+  "content_schema_version": "1.0.0",
+  "edition": {
+    "source_book_id": "the-closer-project",
+    "edition_id": "baseline-v0.1",
+    "version": "0.1.0",
+    "publication_date": null,
+    "source_hashes": {
+      "experience_catalog.json": "5b94b93c4a4c128bc90a2921b9fc51004968d85223c963521fef8bee399bb400",
+      "The_Closer_Project_Working_Manuscript_v0.1.docx": "48f6d32c94e3b0bac1e6e3df3007203ffae30104dcc03015aa8f2b15de6b821e"
+    },
+    "imported_at": null,
+    "provenance": "v0.1 structural baseline; not an approved complete book",
+    "locale": "en",
+    "approval_state": "baseline_inventory_only",
+    "completeness": "inventory_not_full_chapters",
+    "app_compatibility": ">=0.1.0 <2.0.0",
+    "checksum": "d7c51c81463b3f784136a32f64245cbacfecc6238f4ccc785317fb3300f77801"
+  },
+  "parts": [
+    {
+      "stable_id": "part-01",
+      "ordinal": 1,
+      "name": "The Art of Really Knowing Someone",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "001",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "007",
+        "008"
+      ]
+    },
+    {
+      "stable_id": "part-02",
+      "ordinal": 2,
+      "name": "Vulnerability and the Courage to Be Seen",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "009",
+        "010",
+        "011",
+        "012",
+        "013",
+        "014",
+        "015",
+        "016"
+      ]
+    },
+    {
+      "stable_id": "part-03",
+      "ordinal": 3,
+      "name": "The Science and Experience of Closeness",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024"
+      ]
+    },
+    {
+      "stable_id": "part-04",
+      "ordinal": 4,
+      "name": "Love, Affection, and Feeling Chosen",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "025",
+        "026",
+        "027",
+        "028",
+        "029",
+        "030",
+        "031",
+        "032"
+      ]
+    },
+    {
+      "stable_id": "part-05",
+      "ordinal": 5,
+      "name": "Desire, Attraction, and Sensual Intimacy",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "033",
+        "034",
+        "035",
+        "036",
+        "037",
+        "038",
+        "039",
+        "040"
+      ]
+    },
+    {
+      "stable_id": "part-06",
+      "ordinal": 6,
+      "name": "Playfulness, Laughter, and a Little Mischief",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "041",
+        "042",
+        "043",
+        "044",
+        "045",
+        "046",
+        "047",
+        "048"
+      ]
+    },
+    {
+      "stable_id": "part-07",
+      "ordinal": 7,
+      "name": "The Inner World: Dreams, Meaning, and Identity",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "049",
+        "050",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056"
+      ]
+    },
+    {
+      "stable_id": "part-08",
+      "ordinal": 8,
+      "name": "Trust, Communication, and Emotional Safety",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "057",
+        "058",
+        "059",
+        "060",
+        "061",
+        "062",
+        "063",
+        "064"
+      ]
+    },
+    {
+      "stable_id": "part-09",
+      "ordinal": 9,
+      "name": "Shared Adventures and New Experiences",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "065",
+        "066",
+        "067",
+        "068",
+        "069",
+        "070",
+        "071",
+        "072"
+      ]
+    },
+    {
+      "stable_id": "part-10",
+      "ordinal": 10,
+      "name": "The Past, the Present, and the Story of Us",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "073",
+        "074",
+        "075",
+        "076",
+        "077",
+        "078",
+        "079",
+        "080"
+      ]
+    },
+    {
+      "stable_id": "part-11",
+      "ordinal": 11,
+      "name": "Radical Curiosity and the Surprising Stuff",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "081",
+        "082",
+        "083",
+        "084",
+        "085",
+        "086",
+        "087",
+        "088"
+      ]
+    },
+    {
+      "stable_id": "part-12",
+      "ordinal": 12,
+      "name": "Building a Closer Future Together",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "089",
+        "090",
+        "091",
+        "092",
+        "093",
+        "094",
+        "095",
+        "096"
+      ]
+    },
+    {
+      "stable_id": "part-13",
+      "ordinal": 13,
+      "name": "The Inventor’s Workshop: Original Proposals",
+      "intro": null,
+      "intro_origin": "source_gap",
+      "asset_ids": [],
+      "experience_ids": [
+        "097",
+        "098",
+        "099",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108"
+      ]
+    }
+  ],
+  "experiences": [
+    {
+      "stable_id": "001",
+      "numeric_id": 1,
+      "title": "The Stranger Across From Me",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "001-premise",
+          "kind": "source_premise",
+          "text": "Pretend you have just met. Interview one another as fascinating strangers and discover how familiarity can hide curiosity.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "002",
+      "numeric_id": 2,
+      "title": "The Life You’ve Never Told Me",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "002-premise",
+          "kind": "source_premise",
+          "text": "Share a significant episode of life the other has never heard in detail, including turning points and formative relationships.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "003",
+      "numeric_id": 3,
+      "title": "The Five Defining Moments",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "003-premise",
+          "kind": "source_premise",
+          "text": "Identify five experiences that fundamentally changed who you are and explain their ongoing influence.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "004",
+      "numeric_id": 4,
+      "title": "Before I Was Me",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "004-premise",
+          "kind": "source_premise",
+          "text": "Explore childhood personalities, family dynamics, early dreams, and parts of your younger selves still present today.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "005",
+      "numeric_id": 5,
+      "title": "The Things Nobody Thinks to Ask",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "005-premise",
+          "kind": "source_premise",
+          "text": "Ask unusual, specific questions about beliefs, habits, memories, preferences, and private thoughts.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "006",
+      "numeric_id": 6,
+      "title": "The Museum of Me",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "006-premise",
+          "kind": "source_premise",
+          "text": "Curate an imaginary museum of objects, people, songs, and events representing your life; give your partner a tour.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "007",
+      "numeric_id": 7,
+      "title": "The Opinion I Changed",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "007-premise",
+          "kind": "source_premise",
+          "text": "Discuss convictions you once held strongly, how they changed, and what that reveals about growth.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "008",
+      "numeric_id": 8,
+      "title": "The Secret Biography",
+      "aliases": [],
+      "part_id": "part-01",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "008-premise",
+          "kind": "source_premise",
+          "text": "Write a revealing biography of your contradictions, motivations, vulnerabilities, and less visible qualities.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "009",
+      "numeric_id": 9,
+      "title": "The Uncomfortable Truth",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "009-premise",
+          "kind": "source_premise",
+          "text": "Willingly share something difficult to admit, while the listener receives it without judgment or immediate repair.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "010",
+      "numeric_id": 10,
+      "title": "The Fear Beneath the Fear",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "010-premise",
+          "kind": "source_premise",
+          "text": "Explore successive layers beneath a fear to reveal underlying needs, experiences, or beliefs.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "011",
+      "numeric_id": 11,
+      "title": "What I Don’t Show the World",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "011-premise",
+          "kind": "source_premise",
+          "text": "Describe parts of yourself you hide from others and what would make them safe to reveal.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "012",
+      "numeric_id": 12,
+      "title": "The Permission Slip",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "012-premise",
+          "kind": "source_premise",
+          "text": "Write yourself permission to be imperfect, playful, uncertain, ambitious, needy, or emotionally open.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "013",
+      "numeric_id": 13,
+      "title": "Confession Without Consequence",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "013-premise",
+          "kind": "source_premise",
+          "text": "Offer a chosen embarrassment, regret, insecurity, or harmless private truth for curious listening; this is not immunity for harmful behavior.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "014",
+      "numeric_id": 14,
+      "title": "The Part of Me That Still Hurts",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "014-premise",
+          "kind": "source_premise",
+          "text": "Discuss an old disappointment or rejection that still has emotional weight, focusing on understanding.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "015",
+      "numeric_id": 15,
+      "title": "When I Feel Small",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "015-premise",
+          "kind": "source_premise",
+          "text": "Describe what makes you feel inadequate or overlooked and which reassurances genuinely help.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "016",
+      "numeric_id": 16,
+      "title": "No Armor Tonight",
+      "aliases": [],
+      "part_id": "part-02",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "016-premise",
+          "kind": "source_premise",
+          "text": "Set aside habitual jokes, defensiveness, and impressive answers in favor of straightforward emotional honesty.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "017",
+      "numeric_id": 17,
+      "title": "Four Minutes of Forever",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "017-premise",
+          "kind": "source_premise",
+          "text": "Share four minutes of comfortable, uninterrupted eye contact, noticing what arises without needing to talk.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "018",
+      "numeric_id": 18,
+      "title": "The Silent Conversation",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "018-premise",
+          "kind": "source_premise",
+          "text": "Communicate for an agreed period only by expression, movement, and gestures.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "019",
+      "numeric_id": 19,
+      "title": "Breathe With Me",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "019-premise",
+          "kind": "source_premise",
+          "text": "Sit together and let your breathing settle naturally, noticing shared presence.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "020",
+      "numeric_id": 20,
+      "title": "The Listening Experiment",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "020-premise",
+          "kind": "source_premise",
+          "text": "Take turns speaking uninterrupted about something meaningful while the other listens and reflects back.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "021",
+      "numeric_id": 21,
+      "title": "The Trust Walk",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "021-premise",
+          "kind": "source_premise",
+          "text": "Guide a partner with closed or covered eyes through a safe space; practice clear direction and trust.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "022",
+      "numeric_id": 22,
+      "title": "The Language of Touch",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "022-premise",
+          "kind": "source_premise",
+          "text": "Explore welcome nonsexual forms of touch and discover which create comfort and affection.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "023",
+      "numeric_id": 23,
+      "title": "The Sixty-Second Embrace",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "023-premise",
+          "kind": "source_premise",
+          "text": "Share an unhurried, mutually comfortable embrace and notice how deliberate affection differs from routine.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "024",
+      "numeric_id": 24,
+      "title": "The Presence Challenge",
+      "aliases": [],
+      "part_id": "part-03",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "024-premise",
+          "kind": "source_premise",
+          "text": "Remove phones, chores, and other distractions for a dedicated stretch of undivided attention.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "025",
+      "numeric_id": 25,
+      "title": "What Loving Me Actually Looks Like",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "025-premise",
+          "kind": "source_premise",
+          "text": "Compare the exact behaviors, words, and gestures that make each person feel loved.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "026",
+      "numeric_id": 26,
+      "title": "The Appreciation Avalanche",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "026-premise",
+          "kind": "source_premise",
+          "text": "Exchange increasingly specific appreciations until you move beyond the obvious.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "027",
+      "numeric_id": 27,
+      "title": "The Moment I Knew",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "027-premise",
+          "kind": "source_premise",
+          "text": "Tell stories of when the other started to matter more, or closeness deepened.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "028",
+      "numeric_id": 28,
+      "title": "Instructions for Loving Me",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "028-premise",
+          "kind": "source_premise",
+          "text": "Write a playful personal owner’s manual, including emotional needs, warning signs, and useful maintenance.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "029",
+      "numeric_id": 29,
+      "title": "The Reassurance Menu",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "029-premise",
+          "kind": "source_premise",
+          "text": "Create individualized menus of what helps when lonely, stressed, insecure, sad, or disconnected.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "030",
+      "numeric_id": 30,
+      "title": "The Compliment You Can’t Dodge",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "030-premise",
+          "kind": "source_premise",
+          "text": "Offer thoughtful compliments and practice receiving them without dismissal or deflection.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "031",
+      "numeric_id": 31,
+      "title": "A Love Letter From the Future",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "031-premise",
+          "kind": "source_premise",
+          "text": "Write letters from years ahead describing the love and qualities you hope endure.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "032",
+      "numeric_id": 32,
+      "title": "The Everyday Devotion Experiment",
+      "aliases": [],
+      "part_id": "part-04",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "032-premise",
+          "kind": "source_premise",
+          "text": "Spend several days performing small, personally meaningful acts of affection and notice their effects.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "033",
+      "numeric_id": 33,
+      "title": "The Attraction Interview",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "033-premise",
+          "kind": "source_premise",
+          "text": "Explore first attraction, current attraction, and how your understanding of chemistry has evolved.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "034",
+      "numeric_id": 34,
+      "title": "The Yes, No, Maybe Game",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "034-premise",
+          "kind": "source_premise",
+          "text": "Individually classify romantic, affectionate, sensual, and sexual ideas as yes, no, or maybe; compare without pressure.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "035",
+      "numeric_id": 35,
+      "title": "The Art of Anticipation",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "035-premise",
+          "kind": "source_premise",
+          "text": "Experiment with thoughtful messages, hints, and gestures leading to a mutually planned romantic experience.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "036",
+      "numeric_id": 36,
+      "title": "The Sensory Date",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "036-premise",
+          "kind": "source_premise",
+          "text": "Create an experience based on music, scent, texture, taste, lighting, and welcome touch.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "037",
+      "numeric_id": 37,
+      "title": "The Desire Nobody Asked About",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "037-premise",
+          "kind": "source_premise",
+          "text": "Discuss previously unexpressed wishes, fantasies, or forms of affection without obligations to act.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "038",
+      "numeric_id": 38,
+      "title": "The Slow Dance With No Music",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "038-premise",
+          "kind": "source_premise",
+          "text": "Move together slowly in silence and explore unstructured closeness.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "039",
+      "numeric_id": 39,
+      "title": "The Romantic Time Machine",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "039-premise",
+          "kind": "source_premise",
+          "text": "Imagine meeting in a different era or circumstance and what would still attract you.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "040",
+      "numeric_id": 40,
+      "title": "The Intimacy Blueprint",
+      "aliases": [],
+      "part_id": "part-05",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "040-premise",
+          "kind": "source_premise",
+          "text": "Map conditions that support romance and desire, what impedes them, and how to design for both partners.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "041",
+      "numeric_id": 41,
+      "title": "Two Truths and a Beautiful Lie",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "041-premise",
+          "kind": "source_premise",
+          "text": "Tell two true personal stories and one convincing fiction; guess and uncover the truths.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "042",
+      "numeric_id": 42,
+      "title": "Would You Rather: Unhinged Edition",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "042-premise",
+          "kind": "source_premise",
+          "text": "Choose between ludicrous, revealing, morally complicated, or romantic hypotheticals.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "043",
+      "numeric_id": 43,
+      "title": "The Newlywed Game, Without the Wedding",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "043-premise",
+          "kind": "source_premise",
+          "text": "Privately answer trivia about your partner and compare knowledge, assumptions, and surprises.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "044",
+      "numeric_id": 44,
+      "title": "The Ridiculous Role Reversal",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "044-premise",
+          "kind": "source_premise",
+          "text": "Lightheartedly impersonate each other, then discuss what is accurate or wildly wrong.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "045",
+      "numeric_id": 45,
+      "title": "The Great Debate of Absolutely Nothing",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "045-premise",
+          "kind": "source_premise",
+          "text": "Argue opposite sides of entirely absurd propositions with exaggerated seriousness.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "046",
+      "numeric_id": 46,
+      "title": "The Alternate Universe Couple",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "046-premise",
+          "kind": "source_premise",
+          "text": "Invent versions of yourselves in another world and imagine your meeting, attraction, and misadventures.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "047",
+      "numeric_id": 47,
+      "title": "Truth, Dare, or Discover",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "047-premise",
+          "kind": "source_premise",
+          "text": "Use a three-mode game of revealing truths, funny dares, playful affection, and discovery.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "048",
+      "numeric_id": 48,
+      "title": "The Secret Mission Exchange",
+      "aliases": [],
+      "part_id": "part-06",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "048-premise",
+          "kind": "source_premise",
+          "text": "Assign each other private thoughtful, funny, or affectionate missions over several days.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "049",
+      "numeric_id": 49,
+      "title": "The Life Not Taken",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "049-premise",
+          "kind": "source_premise",
+          "text": "Consider alternate lives produced by different choices and the dreams still attached to them.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "050",
+      "numeric_id": 50,
+      "title": "The Things That Make Life Worth Living",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "050-premise",
+          "kind": "source_premise",
+          "text": "Discuss meaning, freedom, beauty, pleasure, contribution, and what makes life worthwhile.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "051",
+      "numeric_id": 51,
+      "title": "The Unfinished Version of Me",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "051-premise",
+          "kind": "source_premise",
+          "text": "Describe qualities you are still developing and mysteries you have not solved about yourself.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "052",
+      "numeric_id": 52,
+      "title": "The Belief Beneath the Belief",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "052-premise",
+          "kind": "source_premise",
+          "text": "Examine a conviction’s origins, why it matters, and what might change it.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "053",
+      "numeric_id": 53,
+      "title": "If Nobody Were Watching",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "053-premise",
+          "kind": "source_premise",
+          "text": "Imagine life without external judgment and what you would pursue, express, or abandon.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "054",
+      "numeric_id": 54,
+      "title": "The Personal Mythology",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "054-premise",
+          "kind": "source_premise",
+          "text": "Tell your life as a legend or novel with themes, characters, antagonists, twists, and unfinished chapters.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "055",
+      "numeric_id": 55,
+      "title": "What I Want to Experience Before I Die",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "055-premise",
+          "kind": "source_premise",
+          "text": "Share personal bucket lists, including ordinary pleasures and grand adventures.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "056",
+      "numeric_id": 56,
+      "title": "The Questions Without Answers",
+      "aliases": [],
+      "part_id": "part-07",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "056-premise",
+          "kind": "source_premise",
+          "text": "Explore consciousness, mortality, love, morality, fate, and mystery without forcing agreement.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "057",
+      "numeric_id": 57,
+      "title": "The Instruction Manual for My Bad Days",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "057-premise",
+          "kind": "source_premise",
+          "text": "Describe how you act when distressed and what kinds of support help or worsen things.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "058",
+      "numeric_id": 58,
+      "title": "What You Heard vs. What I Meant",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "058-premise",
+          "kind": "source_premise",
+          "text": "Compare intended meaning with perceived meaning and practice checking interpretations.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "059",
+      "numeric_id": 59,
+      "title": "The Gentle Disagreement",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "059-premise",
+          "kind": "source_premise",
+          "text": "Work through a manageable disagreement with warmth, curiosity, and respect.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "060",
+      "numeric_id": 60,
+      "title": "The Repair Shop",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "060-premise",
+          "kind": "source_premise",
+          "text": "Revisit a minor misstep and practice acknowledgment, accountability, and repair instead of blame.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "061",
+      "numeric_id": 61,
+      "title": "The Invisible Need",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "061-premise",
+          "kind": "source_premise",
+          "text": "Identify needs that can emerge indirectly through withdrawal, jokes, frustration, or tension.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "062",
+      "numeric_id": 62,
+      "title": "The Safety Map",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "062-premise",
+          "kind": "source_premise",
+          "text": "Map actions, situations, and words that create emotional safety or guardedness.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "063",
+      "numeric_id": 63,
+      "title": "The Appreciation Behind the Complaint",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "063-premise",
+          "kind": "source_premise",
+          "text": "Translate a recurring minor irritation into an underlying wish and a constructive request.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "064",
+      "numeric_id": 64,
+      "title": "The Trust Bank",
+      "aliases": [],
+      "part_id": "part-08",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "064-premise",
+          "kind": "source_premise",
+          "text": "Notice small actions that deposit into or withdraw from everyday trust over time.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "065",
+      "numeric_id": 65,
+      "title": "The First-Time Challenge",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "065-premise",
+          "kind": "source_premise",
+          "text": "Try something neither person has done before and reflect on how novelty changes interaction.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "066",
+      "numeric_id": 66,
+      "title": "The Twenty-Dollar Adventure",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "066-premise",
+          "kind": "source_premise",
+          "text": "Design a memorable experience with a very small budget using imagination and cooperation.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "067",
+      "numeric_id": 67,
+      "title": "The Comfort Zone Exchange",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "067-premise",
+          "kind": "source_premise",
+          "text": "Introduce each other to a mutually acceptable unfamiliar activity.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "068",
+      "numeric_id": 68,
+      "title": "The Night of Random Decisions",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "068-premise",
+          "kind": "source_premise",
+          "text": "Use dice, coins, or cards to choose between agreed options throughout an evening.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "069",
+      "numeric_id": 69,
+      "title": "Build Something Together",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "069-premise",
+          "kind": "source_premise",
+          "text": "Make, cook, invent, or construct something and notice how you collaborate.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "070",
+      "numeric_id": 70,
+      "title": "The World Through Your Eyes",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "070-premise",
+          "kind": "source_premise",
+          "text": "Each partner plans an experience around a deeply meaningful interest and explains its significance.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "071",
+      "numeric_id": 71,
+      "title": "The Twelve-Hour Vacation",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "071-premise",
+          "kind": "source_premise",
+          "text": "Transform an ordinary day into an intentional miniature holiday or adventure.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "072",
+      "numeric_id": 72,
+      "title": "The Shared Courage Experiment",
+      "aliases": [],
+      "part_id": "part-09",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "072-premise",
+          "kind": "source_premise",
+          "text": "Face a manageable, mutually chosen challenge with encouragement and teamwork.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "073",
+      "numeric_id": 73,
+      "title": "The First Chapter",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "073-premise",
+          "kind": "source_premise",
+          "text": "Reconstruct your early relationship separately, then compare impressions, uncertainties, and memories.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "074",
+      "numeric_id": 74,
+      "title": "The Moments You Didn’t Know Mattered",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "074-premise",
+          "kind": "source_premise",
+          "text": "Reveal small gestures or words that mattered much more than your partner realized.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "075",
+      "numeric_id": 75,
+      "title": "Our Greatest Hits",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "075-premise",
+          "kind": "source_premise",
+          "text": "Compile the funniest, most romantic, unexpected, and meaningful shared moments.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "076",
+      "numeric_id": 76,
+      "title": "The Moment I Saw You Differently",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "076-premise",
+          "kind": "source_premise",
+          "text": "Recall a time your understanding of your partner fundamentally expanded.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "077",
+      "numeric_id": 77,
+      "title": "The Relationship Timeline",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "077-premise",
+          "kind": "source_premise",
+          "text": "Map key moments, challenges, successes, changes, and turning points together.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "078",
+      "numeric_id": 78,
+      "title": "The Unspoken Thank-You",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "078-premise",
+          "kind": "source_premise",
+          "text": "Recognize something meaningful your partner did that never received a full thank-you.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "079",
+      "numeric_id": 79,
+      "title": "The Soundtrack of Us",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "079-premise",
+          "kind": "source_premise",
+          "text": "Choose music representing chapters or feelings in your shared history and tell its stories.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "080",
+      "numeric_id": 80,
+      "title": "The Day Worth Reliving",
+      "aliases": [],
+      "part_id": "part-10",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "080-premise",
+          "kind": "source_premise",
+          "text": "Each pick a shared day you would relive and reconstruct why it mattered.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "081",
+      "numeric_id": 81,
+      "title": "The Forbidden Question Box",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "081-premise",
+          "kind": "source_premise",
+          "text": "Privately contribute rarely asked questions, draw randomly, and freely pass when desired.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "082",
+      "numeric_id": 82,
+      "title": "The Moral Gray Area",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "082-premise",
+          "kind": "source_premise",
+          "text": "Discuss dilemmas with competing values and no obvious right answers.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "083",
+      "numeric_id": 83,
+      "title": "The Secret Nobody Would Guess",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "083-premise",
+          "kind": "source_premise",
+          "text": "Volunteer a surprising fact, experience, or thought that challenges assumptions.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "084",
+      "numeric_id": 84,
+      "title": "The Dark Side of Me",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "084-premise",
+          "kind": "source_premise",
+          "text": "Explore less flattering tendencies such as jealousy, vanity, resentment, or control with self-awareness.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "085",
+      "numeric_id": 85,
+      "title": "What Would You Do If…?",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "085-premise",
+          "kind": "source_premise",
+          "text": "Consider unexpected dilemmas about money, morality, relationships, and life-changing opportunities.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "086",
+      "numeric_id": 86,
+      "title": "The Unpopular Opinion Club",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "086-premise",
+          "kind": "source_premise",
+          "text": "Share underexpressed opinions and practice curious, noncompetitive disagreement.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "087",
+      "numeric_id": 87,
+      "title": "The Question Behind the Question",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "087-premise",
+          "kind": "source_premise",
+          "text": "Follow an ordinary answer with successive thoughtful questions revealing deeper meaning.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "088",
+      "numeric_id": 88,
+      "title": "The Thing I’m Still Figuring Out",
+      "aliases": [],
+      "part_id": "part-11",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "088-premise",
+          "kind": "source_premise",
+          "text": "Share unresolved questions about self, life, intimacy, identity, or relationships.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "089",
+      "numeric_id": 89,
+      "title": "The Relationship We Would Invent",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "089-premise",
+          "kind": "source_premise",
+          "text": "Design relationship expectations and rituals from scratch rather than borrowing assumptions.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "090",
+      "numeric_id": 90,
+      "title": "The Future Memory",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "090-premise",
+          "kind": "source_premise",
+          "text": "Describe a happy future memory as if it already happened, then consider how to create it.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "091",
+      "numeric_id": 91,
+      "title": "What We Want More Of",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "091-premise",
+          "kind": "source_premise",
+          "text": "Identify experiences and actions you want to increase, not just problems to remove.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "092",
+      "numeric_id": 92,
+      "title": "The Dream Exchange",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "092-premise",
+          "kind": "source_premise",
+          "text": "Share individual ambitions and imagine support that respects each person’s ownership.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "093",
+      "numeric_id": 93,
+      "title": "The Relationship Bucket List",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "093-premise",
+          "kind": "source_premise",
+          "text": "Build a shared collection of adventures, traditions, achievements, and delightfully ridiculous goals.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "094",
+      "numeric_id": 94,
+      "title": "The Annual Reintroduction",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "094-premise",
+          "kind": "source_premise",
+          "text": "Return yearly to rediscover changing needs, interests, values, and wishes.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "095",
+      "numeric_id": 95,
+      "title": "A Promise I Actually Want to Keep",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "095-premise",
+          "kind": "source_premise",
+          "text": "Make a few realistic, meaningful relationship commitments with actionable follow-through.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "096",
+      "numeric_id": 96,
+      "title": "The Next Chapter",
+      "aliases": [],
+      "part_id": "part-12",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "096-premise",
+          "kind": "source_premise",
+          "text": "Reflect on discoveries and design ongoing practices and future experiences together.",
+          "origin": "verbatim_baseline_catalog"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "097",
+      "numeric_id": 97,
+      "title": "The Emotional Archaeologists",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "097-premise",
+          "kind": "source_premise",
+          "text": "Investigate a powerful emotional reaction layer by layer without prematurely interpreting it; discover the need below the surface.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "097-design-brief",
+          "kind": "design_brief",
+          "text": "25–50 minutes, deep discovery. One partner chooses a strong reaction—joy, jealousy, embarrassment, pride, sadness—and the other acts as an emotional archaeologist, gently investigating it layer by layer without imposing explanations. Explore what lies beneath an initial feeling and what might have been overlooked. **Signature twist:** As the explorer reflects, the original assumed cause of the emotion may change. Explain respectful questions, consent to stop, non-diagnostic language, and how to close appreciatively.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "098",
+      "numeric_id": 98,
+      "title": "The One-Hundred-Year Interview",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "098-premise",
+          "kind": "source_premise",
+          "text": "Interview each other as imagined centenarians and turn three invented memories into real-life aspirations.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "098-design-brief",
+          "kind": "design_brief",
+          "text": "30–60 minutes, shared imagination. Pretend both partners are 100-year-old versions of themselves. Interview one another about the adventures, mistakes, regrets, delights and wild stories of the decades you supposedly lived together, accepting contradictory versions as part of the fun. **Signature twist:** Each person identifies three invented memories they'd genuinely like to make real someday. Provide interviewer questions, theatrical setup and a practical optional future-memory page.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "099",
+      "numeric_id": 99,
+      "title": "The Invisible Postcards",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "099-premise",
+          "kind": "source_premise",
+          "text": "Secretly collect short notes over days about moments your partner helped, impressed, or delighted you, then exchange them.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "099-design-brief",
+          "kind": "design_brief",
+          "text": "Multi-day ritual, thoughtful affection. Each person secretly writes small postcards about ordinary moments in which the other unknowingly delighted, helped, impressed, or attracted them. Exchange them at the end of the observation period. **Signature twist:** The most poignant notes can concern moments so tiny the recipient can't remember them. Provide print-ready postcard templates and a keepsake archive method.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "100",
+      "numeric_id": 100,
+      "title": "The Emotional Weather Report",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "100-premise",
+          "kind": "source_premise",
+          "text": "Describe your inner state as a weather forecast, with an optional forecast of what may help tomorrow.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "100-design-brief",
+          "kind": "design_brief",
+          "text": "5–15 minutes, repeatable ritual. Replace \"How was your day?\" with an imaginative inner weather forecast: storms, cloud breaks, unexpected sun, emotional fog, a front of existential bullshit, etc. The listener can ask about the forecast but doesn't have to solve it. **Signature twist:** The weatherperson optionally forecasts what could help tomorrow, without making the partner responsible for changing the weather. Offer playful and serious examples and log sheets.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "101",
+      "numeric_id": 101,
+      "title": "The Borrowed Brain Experiment",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "101-premise",
+          "kind": "source_premise",
+          "text": "Answer a scenario as you think your partner would and compare the reasoning, not just the final decision.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "101-design-brief",
+          "kind": "design_brief",
+          "text": "30–45 minutes, perspective-taking game. Present a hypothetical situation. Answer AS you believe your partner would, then let the partner explain their actual choice and reasoning. **Signature twist:** Reward understanding the partner's logic more than matching a yes/no answer. Supply substantial realistic, funny and morally gray scenario banks, turn structure and optional scoring without turning differences into failures.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "102",
+      "numeric_id": 102,
+      "title": "The Museum of Unsaid Things",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "102-premise",
+          "kind": "source_premise",
+          "text": "Create exhibit labels for thoughts, appreciation, fears, or needs left unsaid; pair 'what happened' with 'what I wish you understood.'",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "102-design-brief",
+          "kind": "design_brief",
+          "text": "45–90 minutes, deep vulnerability. Create imaginary museum exhibits about the appreciation, fears, needs, funny regrets, or emotionally important words never voiced. Suggested exhibits include \"The Compliment I Never Gave,\" \"The Fear I Disguised as a Joke,\" or \"The Moment I Needed a Hug but Didn't Ask.\" **Signature twist:** Each exhibit has two labels—\"What happened\" and \"What I wish you'd understood.\" Provide actual museum label templates and sensitive alternatives that avoid ambushes.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "103",
+      "numeric_id": 103,
+      "title": "The Relationship Escape Room",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "103-premise",
+          "kind": "source_premise",
+          "text": "Solve cooperative puzzles involving personal history, partner knowledge, and complementary skills.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "103-design-brief",
+          "kind": "design_brief",
+          "text": "60–120 minutes, cooperative puzzle game without an actual escape room. Build challenges involving personal memories, knowledge about one another, storytelling, logic and complementary skills. **Signature twist:** Neither person has the complete information; the clues and puzzles require joining each other's knowledge. Provide a fully playable starter mystery, exact setup rules, solutions, resetting instructions, and optional customization. This is a cooperative puzzling experience and is entirely separate from the unrelated scavenger hunt project.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "104",
+      "numeric_id": 104,
+      "title": "The Two-Person Civilization",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "104-premise",
+          "kind": "source_premise",
+          "text": "Invent a civilization’s founding principles together and adapt them when random events challenge your ideals.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "104-design-brief",
+          "kind": "design_brief",
+          "text": "45–90 minutes, values and creativity. Imagine founding an entire society together. Choose laws, traditions, holidays, moral principles, freedoms, consequences, and values; try to settle on ten founding principles while protecting both perspectives. **Signature twist:** Draw random event cards that force the couple to revise or defend the civilization's assumptions. Provide original event deck, scoring/consensus mechanics if helpful, and an illustrated constitution worksheet.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "105",
+      "numeric_id": 105,
+      "title": "The Compliment Decoder",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "105-premise",
+          "kind": "source_premise",
+          "text": "Guess the lived story behind your partner’s deeper compliments before they disclose the actual source.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "105-design-brief",
+          "kind": "design_brief",
+          "text": "15–25 minutes, specific appreciation. Each person writes five observations/compliments about the other beyond looks and stock adjectives. The recipient guesses the actual lived experience that prompted each. **Signature twist:** Reveal the real memory or behavior behind the compliment, which may be entirely different from what the recipient imagined. Provide samples and a printable decoder sheet.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "106",
+      "numeric_id": 106,
+      "title": "The Intimacy Negotiators",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "106-premise",
+          "kind": "source_premise",
+          "text": "Allocate 100 imaginary points among forms of closeness and collaborate on a mutually appealing evening without demands.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "106-design-brief",
+          "kind": "design_brief",
+          "text": "30–60 minutes, candid adult self-knowledge. Privately allocate a hypothetical total of 100 points among forms of intimacy: affection, romance, playfulness, meaningful conversation, sensuality, adventure, closeness, quiet, spontaneity, privacy, etc. Compare charts without treating the allocations as entitlement or demands. **Signature twist:** Design an evening that respects both people's genuine wishes and limits. Provide actual 100-point worksheets, optional category changes and examples.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "107",
+      "numeric_id": 107,
+      "title": "The Memory Smuggler",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "107-premise",
+          "kind": "source_premise",
+          "text": "Tell a true memory with one invented detail that symbolizes a wish, fear, or unrealized possibility; have the listener detect it.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "107-design-brief",
+          "kind": "design_brief",
+          "text": "20–40 minutes, memory storytelling. One participant tells a true story while slipping in a single fictional detail; the other investigates what doesn't belong. The twist must be meaningful to the storyteller's inner world. **Signature twist:** The fabricated element symbolizes a wished-for turn, a feared outcome, or an unrealized possibility. After revealing it, tell the true story and why the fiction appealed. Supply examples and fair-play rules.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    },
+    {
+      "stable_id": "108",
+      "numeric_id": 108,
+      "title": "The Secret Door",
+      "aliases": [],
+      "part_id": "part-13",
+      "subtitle": null,
+      "provenance": "baseline_catalog",
+      "prose_blocks": [
+        {
+          "block_id": "108-premise",
+          "kind": "source_premise",
+          "text": "Use imaginary locked doors for inner-life themes; the person sharing controls which keys are offered and how deeply to explore.",
+          "origin": "verbatim_baseline_catalog"
+        },
+        {
+          "block_id": "108-design-brief",
+          "kind": "design_brief",
+          "text": "30–75 minutes, progressive voluntary disclosure. Each person imagines rooms/doors behind which sit a cherished memory, fear, unrealized ambition, private desire, paradox, or something hard to explain. The partner can ask questions, but the explorer chooses which keys to offer and how deeply to go. **Signature twist:** A door may be offered that the other person didn't know existed, but no one can demand access. Provide optional physical door cards, rules, keys, pass controls and debrief.",
+          "origin": "verbatim_baseline_expansion_brief"
+        }
+      ],
+      "preparation": [],
+      "materials": [],
+      "steps": [],
+      "variants": [],
+      "debrief": null,
+      "prompt_ids": [],
+      "reference_ids": [],
+      "asset_ids": [],
+      "metadata": {
+        "time_buckets": [],
+        "outcomes": [],
+        "energy": [],
+        "depth": [],
+        "formats": [],
+        "materials_required": [],
+        "optional_contact": null,
+        "personal_level": null
+      },
+      "interaction_definition": null,
+      "interaction_version": null,
+      "source_gaps": [
+        "full_chapter",
+        "setup",
+        "steps",
+        "variants",
+        "debrief",
+        "journal_prompts",
+        "artwork",
+        "duration_metadata"
+      ]
+    }
+  ],
+  "signatures": [],
+  "prompts": [],
+  "assets": [],
+  "legacy_archive": [],
+  "required_signature_ids": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06"
+  ]
+}

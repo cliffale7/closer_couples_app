@@ -1,0 +1,5 @@
+OPTIONAL ONE-TIME ADDITION TO THE SEPARATE *BOOK* CURSOR PROJECT
+
+As part of every approved completed book release, also generate a `release/app_handoff/TheCloserBookContent-<edition>.zip` containing: release manifest with edition/approval/version/source hashes, complete canonical Markdown or JSON text for every chapter by stable ID (001–108 and all newer IDs), full metadata for time/mood/energy/depth/format filters, all prompt IDs and revisions, all interactive game instructions/worksheets/appendices/signature sessions, and original image sources plus alt text/license manifest. Include a machine-readable chapter index and a human-readable release change log. This app-ready package is an ADDITIONAL export; it does not replace the required PDF/DOCX/EPUB book editions. Keep all PERSONAL couple journals and private writings OUT of the book content export.
+
+The separate Android project must still ingest and faithfully convert a finished DOCX/EPUB/PDF even if this optional handoff format was not produced.
